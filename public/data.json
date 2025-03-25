@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "On The Road",
+    "author": "Jack Kerouac",
+    "price": 10,
+    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F1.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "The Subterraneans",
+    "author": "Jack Kerouac",
+    "price": 20,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F2.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Indian Journals",
+    "author": "Allen Ginsberg",
+    "price": 27,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F3.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Iron Horse",
+    "author": "Allen Ginsberg",
+    "price": 18,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F4.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 5,
+    "name": "On The Road",
+    "author": "Jack Kerouac",
+    "price": 10,
+    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F1.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 6,
+    "name": "The Subterraneans",
+    "author": "Jack Kerouac",
+    "price": 20,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F2.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+
+  {
+    "id": 7,
+    "name": "Indian Journals",
+    "author": "Allen Ginsberg",
+    "price": 27,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F3.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 8,
+    "name": "Iron Horse",
+    "author": "Allen Ginsberg",
+    "price": 18,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F4.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  }
+]
