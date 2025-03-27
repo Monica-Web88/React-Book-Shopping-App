@@ -4,6 +4,7 @@
 
  
  -Use React Hooks to share data between parent and child components
+
  -To add npm package and enable cli commands
  npm install
  - To build and run the application
